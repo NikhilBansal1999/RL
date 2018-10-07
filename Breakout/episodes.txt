@@ -1,0 +1,671 @@
+1 episodes completed
+0 steps_done
+Target Model weights reset
+20 episodes completed
+17048 steps_done
+Target Model weights reset
+Target Model weights reset
+40 episodes completed
+34893 steps_done
+Target Model weights reset
+Target Model weights reset
+60 episodes completed
+53504 steps_done
+Target Model weights reset
+Target Model weights reset
+80 episodes completed
+72287 steps_done
+Target Model weights reset
+100 episodes completed
+89669 steps_done
+Target Model weights reset
+Target Model weights reset
+120 episodes completed
+107255 steps_done
+Target Model weights reset
+Target Model weights reset
+140 episodes completed
+125044 steps_done
+Target Model weights reset
+Target Model weights reset
+160 episodes completed
+143301 steps_done
+Target Model weights reset
+Target Model weights reset
+180 episodes completed
+161199 steps_done
+Target Model weights reset
+200 episodes completed
+178173 steps_done
+Target Model weights reset
+Target Model weights reset
+220 episodes completed
+195110 steps_done
+Target Model weights reset
+Target Model weights reset
+240 episodes completed
+212648 steps_done
+Target Model weights reset
+Target Model weights reset
+260 episodes completed
+231412 steps_done
+Target Model weights reset
+Target Model weights reset
+280 episodes completed
+250414 steps_done
+Target Model weights reset
+300 episodes completed
+267438 steps_done
+Target Model weights reset
+Target Model weights reset
+320 episodes completed
+283822 steps_done
+Target Model weights reset
+Target Model weights reset
+340 episodes completed
+301595 steps_done
+Target Model weights reset
+360 episodes completed
+318283 steps_done
+Target Model weights reset
+Target Model weights reset
+380 episodes completed
+336068 steps_done
+Target Model weights reset
+Target Model weights reset
+400 episodes completed
+354055 steps_done
+Target Model weights reset
+Target Model weights reset
+420 episodes completed
+371620 steps_done
+Target Model weights reset
+440 episodes completed
+388271 steps_done
+Target Model weights reset
+Target Model weights reset
+460 episodes completed
+405137 steps_done
+Target Model weights reset
+Target Model weights reset
+480 episodes completed
+422760 steps_done
+Target Model weights reset
+Target Model weights reset
+500 episodes completed
+440637 steps_done
+Target Model weights reset
+520 episodes completed
+458375 steps_done
+Target Model weights reset
+Target Model weights reset
+540 episodes completed
+476052 steps_done
+Target Model weights reset
+Target Model weights reset
+560 episodes completed
+492735 steps_done
+Target Model weights reset
+Target Model weights reset
+580 episodes completed
+510398 steps_done
+Target Model weights reset
+600 episodes completed
+529251 steps_done
+Target Model weights reset
+Target Model weights reset
+620 episodes completed
+547205 steps_done
+Target Model weights reset
+Target Model weights reset
+640 episodes completed
+564130 steps_done
+Target Model weights reset
+Target Model weights reset
+660 episodes completed
+584639 steps_done
+Target Model weights reset
+Target Model weights reset
+680 episodes completed
+601899 steps_done
+Target Model weights reset
+700 episodes completed
+617972 steps_done
+Target Model weights reset
+Target Model weights reset
+720 episodes completed
+637919 steps_done
+Target Model weights reset
+Target Model weights reset
+740 episodes completed
+656006 steps_done
+Target Model weights reset
+Target Model weights reset
+760 episodes completed
+673732 steps_done
+Target Model weights reset
+Target Model weights reset
+780 episodes completed
+692828 steps_done
+Target Model weights reset
+Target Model weights reset
+800 episodes completed
+712920 steps_done
+Target Model weights reset
+Target Model weights reset
+820 episodes completed
+732034 steps_done
+Target Model weights reset
+Target Model weights reset
+840 episodes completed
+750435 steps_done
+Target Model weights reset
+860 episodes completed
+767290 steps_done
+Target Model weights reset
+Target Model weights reset
+880 episodes completed
+785245 steps_done
+Target Model weights reset
+Target Model weights reset
+900 episodes completed
+804165 steps_done
+Target Model weights reset
+Target Model weights reset
+920 episodes completed
+820255 steps_done
+Target Model weights reset
+940 episodes completed
+838543 steps_done
+Target Model weights reset
+Target Model weights reset
+960 episodes completed
+856029 steps_done
+Target Model weights reset
+Target Model weights reset
+980 episodes completed
+876223 steps_done
+Target Model weights reset
+Target Model weights reset
+1000 episodes completed
+893648 steps_done
+Target Model weights reset
+Target Model weights reset
+1020 episodes completed
+910907 steps_done
+Target Model weights reset
+Target Model weights reset
+1040 episodes completed
+930515 steps_done
+Target Model weights reset
+1060 episodes completed
+948518 steps_done
+Target Model weights reset
+Target Model weights reset
+1080 episodes completed
+969767 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1100 episodes completed
+992090 steps_done
+Target Model weights reset
+Target Model weights reset
+1120 episodes completed
+1013219 steps_done
+Target Model weights reset
+Target Model weights reset
+1140 episodes completed
+1037009 steps_done
+Target Model weights reset
+Target Model weights reset
+1160 episodes completed
+1056442 steps_done
+Target Model weights reset
+Target Model weights reset
+1180 episodes completed
+1072857 steps_done
+Target Model weights reset
+Target Model weights reset
+1200 episodes completed
+1097920 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1220 episodes completed
+1124058 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1240 episodes completed
+1153519 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1260 episodes completed
+1180307 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1280 episodes completed
+1210365 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1300 episodes completed
+1241227 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1320 episodes completed
+1275518 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1340 episodes completed
+1312651 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1360 episodes completed
+1348618 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1380 episodes completed
+1387065 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1400 episodes completed
+1429621 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1420 episodes completed
+1470459 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1440 episodes completed
+1511909 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1460 episodes completed
+1555726 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1480 episodes completed
+1599489 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1500 episodes completed
+1642105 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1520 episodes completed
+1683013 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1540 episodes completed
+1721227 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1560 episodes completed
+1765122 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1580 episodes completed
+1798133 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1600 episodes completed
+1846773 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1620 episodes completed
+1894609 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1640 episodes completed
+1940730 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1660 episodes completed
+1992124 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1680 episodes completed
+2040730 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1700 episodes completed
+2089584 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1720 episodes completed
+2139668 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1740 episodes completed
+2192673 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1760 episodes completed
+2245946 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1780 episodes completed
+2298059 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1800 episodes completed
+2347563 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1820 episodes completed
+2397305 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1840 episodes completed
+2447515 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1860 episodes completed
+2500744 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1880 episodes completed
+2551289 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1900 episodes completed
+2601636 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1920 episodes completed
+2650394 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1940 episodes completed
+2700635 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1960 episodes completed
+2751039 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+1980 episodes completed
+2802684 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+2000 episodes completed
+2854242 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+2020 episodes completed
+2903134 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+2040 episodes completed
+2957241 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+2060 episodes completed
+3009948 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+2080 episodes completed
+3059366 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+2100 episodes completed
+3108907 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+2120 episodes completed
+3161004 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+2140 episodes completed
+3213555 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+2160 episodes completed
+3263465 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+2180 episodes completed
+3314226 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+2200 episodes completed
+3369101 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+2220 episodes completed
+3424843 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+2240 episodes completed
+3482558 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+2260 episodes completed
+3533128 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+2280 episodes completed
+3587364 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+2300 episodes completed
+3641865 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+2320 episodes completed
+3695277 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+2340 episodes completed
+3749893 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+2360 episodes completed
+3800081 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+2380 episodes completed
+3855756 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+2400 episodes completed
+3905115 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+2420 episodes completed
+3960767 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+2440 episodes completed
+4016752 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+2460 episodes completed
+4073272 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+2480 episodes completed
+4129325 steps_done
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+Target Model weights reset
+2500 episodes completed
+4186300 steps_done
+Target Model weights reset
